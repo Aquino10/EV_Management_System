@@ -1,0 +1,17 @@
+{
+  "name": "ZeroStatic EV Management",
+  "short_name": "ZeroStatic",
+  "description": "Park Smart. Charge Dynamic. Stay ZeroStatic. EV Charging & Bay Management.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080A0D",
+  "theme_color": "#00F0FF",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
